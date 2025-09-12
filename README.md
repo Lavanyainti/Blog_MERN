@@ -4,9 +4,10 @@ A productivity application that helps users manage tasks, diaries, and daily mot
 ## Tech Stack
 - React.js  
 - Node.js, Express.js  
-- MongoDB Atlas  
+- MongoDB Atlas 
+- Cloudinary for images 
 - JWT for authentication  
-- Tailwind CSS  
+- Bootstrap  
 
 ## Features
 - User authentication with JWT    
