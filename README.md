@@ -9,7 +9,7 @@ A **MERN stack blogging platform** where users can create, edit, delete, and rea
 - MongoDB Atlas 
 - Cloudinary for images 
 - JWT for authentication  
-- Tailwind Css  
+- Tailwind CSS  
 
 ## Features
 - User authentication (JWT)
@@ -20,8 +20,8 @@ A **MERN stack blogging platform** where users can create, edit, delete, and rea
 
 ## How to Run Locally
 1. Clone the repo  
-2. [Client] Run `npm install` & `npm run dev`
-3. [Server] Run `npm install` & `npm run dev` 
+2. [Client]- `cd Client` Run `npm install` & `npm run dev`
+3. [Server]- `cd Server` Run `npm install` & `npm run dev` 
 
 ## Live Demo
 [Click here](https://steady-biscochitos-61738e.netlify.app/)
